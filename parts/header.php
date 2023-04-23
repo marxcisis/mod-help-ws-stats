@@ -2,8 +2,7 @@
     <div class="branding docs-branding">
         <div class="container-fluid position-relative py-2">
             <div class="docs-logo-wrapper">
-                <button id="docs-sidebar-toggler" class="docs-sidebar-toggler docs-sidebar-visible me-2 d-xl-none"
-                    type="button">
+                <button id="docs-sidebar-toggler" class="docs-sidebar-toggler docs-sidebar-visible me-2 d-xl-none" type="button">
                     <span></span>
                     <span></span>
                     <span></span>

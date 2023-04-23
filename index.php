@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-	<?php  require_once('parts/head.php');?>
+<?php require_once('parts/head.php'); ?>
+
 <body class="docs-page">
-	<?php require_once('parts/header.php');?>
+	<?php require_once('parts/header.php'); ?>
 	<div class="docs-wrapper">
-		<?php require_once('parts/sidebar.php');?>
+		<?php require_once('parts/sidebar.php'); ?>
 		<div class="docs-content">
 			<div class="container">
 				<article class="docs-article" id="section-1">
@@ -28,13 +29,13 @@
 							Having passed through 7 historical eras, the player reaches the age of heavy tanks and long-range artillery.</p>
 						<p>The game features more than 100 buildings and more than 200 distinct land, air and naval units.</p>
 						<p>War Selection features several unique game modes:
-							<ul>
-								<li>Survival — A mode where you need to survive against hordes of enemies;</li>
-								<li>Free for all;</li>
-								<li>Ranked 1 vs 1 and 2 vs 2;</li>
-								<li>Team match;</li>
-								<li>Armageddon — A Battle Royale flavored mode where players with the least amount of territory are bombarded by meteors until only one player remains.</li>
-							</ul>
+						<ul>
+							<li>Survival — A mode where you need to survive against hordes of enemies;</li>
+							<li>Free for all;</li>
+							<li>Ranked 1 vs 1 and 2 vs 2;</li>
+							<li>Team match;</li>
+							<li>Armageddon — A Battle Royale flavored mode where players with the least amount of territory are bombarded by meteors until only one player remains.</li>
+						</ul>
 						</p>
 						<p>
 							Developer: indie studio Glyph Worlds.</br>
@@ -75,7 +76,6 @@
 								Fusce in malesuada odio.
 							</p>
 						</section>
-						<!--//docs-intro-->
 					</header>
 					<section class="docs-section" id="item-2-1">
 						<h2 class="section-heading">Creating Mod</h2>
@@ -90,7 +90,6 @@
 							malesuada tempor.
 						</p>
 					</section>
-					<!--//section-->
 
 					<section class="docs-section" id="item-2-2">
 						<h2 class="section-heading">Adding Mod to map</h2>
@@ -125,48 +124,48 @@
 						<h2 class="section-heading">Game Mods</h2>
 						<p>
 							Mods list
-Special game modes
-Sandbox
-mod-lGn8Ivf5qmb - gameplay mod
-mod-nz4SD1WAHyj - creates sandbox additional interface
+							Special game modes
+							Sandbox
+							mod-lGn8Ivf5qmb - gameplay mod
+							mod-nz4SD1WAHyj - creates sandbox additional interface
 
-Armageddon mode
-mod-bxRNf7V9y4f - gameplay
-mod-xgLv68dj9V6 - creates armageddon additional interface
+							Armageddon mode
+							mod-bxRNf7V9y4f - gameplay
+							mod-xgLv68dj9V6 - creates armageddon additional interface
 
-Tug of War mode
-mod-eMjoqml7Qfb - gameplay mod
-income - income speed
-middlePercent - additional percentage of income for owning the center
-sellPercent - units sell percent
-wavePeriod - seconds between waves
-maxHouses - maximum amount of houses
-housePrepairingTime - seconds between houses building
-upgradeDamagePrice - price of the damage upgrade
-upgradeDamagePercent - damage percent of the damage upgrade
-lifeTime - units life time in seconds
-moveSpeed - speed of units on the march
-All parameters can be skipped
+							Tug of War mode
+							mod-eMjoqml7Qfb - gameplay mod
+							income - income speed
+							middlePercent - additional percentage of income for owning the center
+							sellPercent - units sell percent
+							wavePeriod - seconds between waves
+							maxHouses - maximum amount of houses
+							housePrepairingTime - seconds between houses building
+							upgradeDamagePrice - price of the damage upgrade
+							upgradeDamagePercent - damage percent of the damage upgrade
+							lifeTime - units life time in seconds
+							moveSpeed - speed of units on the march
+							All parameters can be skipped
 
-mod-t1AxUmZaZ41 - visual mod
-mod-5Qps7gHL1E1 - visual mod that includes a session interface
+							mod-t1AxUmZaZ41 - visual mod
+							mod-5Qps7gHL1E1 - visual mod that includes a session interface
 
-Gameplay
-Win and defeat conditions
-mod-iZvDVNV7Aok - enables draw mode if no fight for period seconds
+							Gameplay
+							Win and defeat conditions
+							mod-iZvDVNV7Aok - enables draw mode if no fight for period seconds
 
-mod-caKgiwj8lh8 - each player must has a king (397 or 398 unit type) and loses when the king dies
+							mod-caKgiwj8lh8 - each player must has a king (397 or 398 unit type) and loses when the king dies
 
-mod-Rgi6rNgLAmd - sets defeat if a faction has no a main building (tag 5)
+							mod-Rgi6rNgLAmd - sets defeat if a faction has no a main building (tag 5)
 
-mod-QmBfycUvwsi - enables Wonder victory mode after timeToWin seconds the end of the construction of a Wonder, but not earlier than minWinMoment seconds from the start of the match
+							mod-QmBfycUvwsi - enables Wonder victory mode after timeToWin seconds the end of the construction of a Wonder, but not earlier than minWinMoment seconds from the start of the match
 
-mod-4Kdob459gog - disables ability to build the World Wonder
+							mod-4Kdob459gog - disables ability to build the World Wonder
 
-Custom map
-mod-b2KPq1MD5p7 - just stores mapData to mapData storage variable
+							Custom map
+							mod-b2KPq1MD5p7 - just stores mapData to mapData storage variable
 
-mod-QdmFm6WcJGj - initializes the factions relations from the map settings
+							mod-QdmFm6WcJGj - initializes the factions relations from the map settings
 						</p>
 					</section>
 
@@ -227,7 +226,7 @@ mod-QdmFm6WcJGj - initializes the factions relations from the map settings
 							malesuada tempor.
 						</p>
 					</section>
-					
+
 					<section class="docs-section" id="item-3-4">
 						<h2 class="section-heading">onTickStarterMod</h2>
 						<p>
@@ -597,7 +596,7 @@ mod-QdmFm6WcJGj - initializes the factions relations from the map settings
 						<p>
 						</p>
 					</section>
-					
+
 					<section class="docs-section" id="item-5-14">
 						<h2 class="section-heading">version</h2>
 						<p>
@@ -696,7 +695,7 @@ mod-QdmFm6WcJGj - initializes the factions relations from the map settings
 								Fusce in malesuada odio.
 							</p>
 						</section>
-						
+
 					</header>
 					<section class="docs-section" id="item-6-1">
 						<h2 class="section-heading">Example 1</h2>
@@ -740,10 +739,11 @@ mod-QdmFm6WcJGj - initializes the factions relations from the map settings
 						</p>
 					</section>
 				</article>
-				<?php require_once('parts/footer.php');?>
+				<?php require_once('parts/footer.php'); ?>
 			</div>
 		</div>
 	</div>
-	<?php require_once('parts/foot.php');?>
+	<?php require_once('parts/foot.php'); ?>
 </body>
+
 </html>

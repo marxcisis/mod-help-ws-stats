@@ -1,18 +1,10 @@
 <div id="docs-sidebar" class="docs-sidebar">
     <nav id="docs-nav" class="docs-nav navbar">
         <ul class="section-items list-unstyled nav flex-column pb-3">
-            <li class="nav-item section-title">
-                <a class="nav-link scrollto active" href="#section-1"><span class="theme-icon-holder me-2"><i class="fas fa-map-signs"></i></span>Introduction</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link scrollto" href="#item-1-1">Discord</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link scrollto" href="#item-1-2">Official Documentation</a>
-            </li>
-            <li class="nav-item section-title mt-3">
-                <a class="nav-link scrollto" href="#section-2"><span class="theme-icon-holder me-2"><i class="fas fa-arrow-down"></i></span>Basic</a>
-            </li>
+            <li class="nav-item section-title"><a class="nav-link scrollto active" href="#section-1"><span class="theme-icon-holder me-2"><i class="fas fa-map-signs"></i></span>Introduction</a></li>
+            <li class="nav-item"><a class="nav-link scrollto" href="#item-1-1">Discord</a></li>
+            <li class="nav-item"><a class="nav-link scrollto" href="#item-1-2">Official Documentation</a></li>
+            <li class="nav-item section-title mt-3"><a class="nav-link scrollto" href="#section-2"><span class="theme-icon-holder me-2"><i class="fas fa-arrow-down"></i></span>Basic</a></li>
             <li class="nav-item">
                 <a class="nav-link scrollto" href="#item-2-1">Creating Mod</a>
             </li>
@@ -175,8 +167,6 @@
             <li class="nav-item">
                 <a class="nav-link scrollto" href="#item-6-3">Example 3</a>
             </li>
-            
         </ul>
     </nav>
-    <!--//docs-nav-->
 </div>
