@@ -1,21 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-	<?php 
-	ini_set('display_errors', '1');
-	ini_set('display_startup_errors', '1');
-	error_reporting(E_ALL);
-
-		require_once('parts/head.php');
-	?>
+	<?php  require_once('parts/head.php');?>
 <body class="docs-page">
-	<?php 
-		require_once('parts/header.php');
-	?>
+	<?php require_once('parts/header.php');?>
 	<div class="docs-wrapper">
-		<?php 
-			require_once('parts/sidebar.php');
-		?>
-
+		<?php require_once('parts/sidebar.php');?>
 		<div class="docs-content">
 			<div class="container">
 				<article class="docs-article" id="section-1">
