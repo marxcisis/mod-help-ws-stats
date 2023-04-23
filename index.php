@@ -30,11 +30,11 @@
 						<p>The game features more than 100 buildings and more than 200 distinct land, air and naval units.</p>
 						<p>War Selection features several unique game modes:
 						<ul>
-							<li>Survival — A mode where you need to survive against hordes of enemies;</li>
-							<li>Free for all;</li>
-							<li>Ranked 1 vs 1 and 2 vs 2;</li>
-							<li>Team match;</li>
-							<li>Armageddon — A Battle Royale flavored mode where players with the least amount of territory are bombarded by meteors until only one player remains.</li>
+							<li><b>Survival</b> — A mode where you need to survive against hordes of enemies.</li>
+							<li><b>Free for all</b> - Up to 16 players and every man for himself.</li>
+							<li><b>Ranked 1 vs 1 and 2 vs 2</b></li>
+							<li><b>Team match</b> - up to 16 players and split into two teams.</li>
+							<li><b>Armageddon</b> — A Battle Royale flavored mode where players with the least amount of territory are bombarded by meteors until only one player remains.</li>
 						</ul>
 						</p>
 						<p>
@@ -79,16 +79,44 @@
 					</header>
 					<section class="docs-section" id="item-2-1">
 						<h2 class="section-heading">Creating Mod</h2>
-						<p>
-							Vivamus efficitur fringilla ullamcorper. Cras condimentum
-							condimentum mauris, vitae facilisis leo. Aliquam sagittis purus
-							nisi, at commodo augue convallis id. Sed interdum turpis quis
-							felis bibendum imperdiet. Mauris pellentesque urna eu leo
-							gravida iaculis. In fringilla odio in felis ultricies porttitor.
-							Donec at purus libero. Vestibulum libero orci, commodo nec arcu
-							sit amet, commodo sollicitudin est. Vestibulum ultricies
-							malesuada tempor.
-						</p>
+						<p>Follow instructions down bellow and you will manage to create your first War Selection mod in 5 steps.</p>
+
+						<div class="card" style="width: 600px">
+							<img src="/images/articles/open-map-editor.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text">1. Open map Editor</p>
+							</div>
+						</div>
+						</br>
+						<div class="card" style="width: 600px">
+							<img src="/images/articles/create-map-or-open-existing.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text">2. Open already made map or create a new one</p>
+							</div>
+						</div>
+						</br>
+						<div class="card" style="width: 600px">
+							<img src="/images/articles/modification-button.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text">3. Click on "Modifications" button on top right corner and popup will appear</p>
+							</div>
+						</div>
+						</br>
+						<div class="card" style="width: 600px">
+							<img src="/images/articles/create-new-gameplay-or-visual-mod.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text">4. Click on "My Modifications" tab and "+" signt of under mod you want to create. At this point there is only two type of mods (Gameplay and Visual).</p>
+							</div>
+						</div>
+						</br>
+						<div class="card" style="width: 600px">
+							<img src="/images/articles/add-name-description-create.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text">5. In popup add name of your mod and click "CREATE".</p>
+							</div>
+						</div>
+
+
 					</section>
 
 					<section class="docs-section" id="item-2-2">
