@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<?php 
-		require_once('/parts/head.php');
+		require_once('parts/head.php');
 	?>
 <body class="docs-page">
 	<?php 
