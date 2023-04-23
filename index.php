@@ -9,11 +9,11 @@
 	?>
 <body class="docs-page">
 	<?php 
-		require_once('/parts/header.php');
+		require_once('parts/header.php');
 	?>
 	<div class="docs-wrapper">
 		<?php 
-			require_once('/parts/sidebar.php');
+			require_once('parts/sidebar.php');
 		?>
 
 		<div class="docs-content">
